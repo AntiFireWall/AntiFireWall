@@ -14,6 +14,6 @@ I'm AntiFireWall (A.F.W. for short), a student at Brigham Young University-Idaho
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/daniel-ayvazyan-1a87b529b) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/daniel-ayvazyan-1a87b529b) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
