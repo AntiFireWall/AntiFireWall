@@ -1,4 +1,4 @@
-Hello, GitHub! 👋
+Hello, GitHub! =>
 
 I'm AntiFireWall (A.F.W. for short), a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
 
@@ -16,4 +16,4 @@ I'm AntiFireWall (A.F.W. for short), a student at Brigham Young University-Idaho
 
 - Here is my [LinkedIn](www.linkedin.com/in/daniel-ayvazyan-1a87b529b) profile
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
