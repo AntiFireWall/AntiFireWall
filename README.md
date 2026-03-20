@@ -1,6 +1,6 @@
 Hello, GitHub! =>
 
-I'm AntiFireWall (A.F.W. for short), a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm AntiFireWall (A.F.W. for short), a student at Brigham Young University-Idaho interested in study Computer Science and Electrical Engineering. Welcome to my GitHub profile!
 
 ## About Me
 
